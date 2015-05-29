@@ -8,4 +8,4 @@ other technologists working in media in Washington, DC.
 
 ## Want in?
 
-[Email me](chris@unbrain.net), open an issue, make a pull request.
+[Email me](mailto:chris@unbrain.net), open an issue, make a pull request.
